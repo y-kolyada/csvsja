@@ -1,4 +1,4 @@
-# mgjava8
+# csvsja / C# vs JAVA
 
 ## create a new repository on the command line
 - git add README.md
